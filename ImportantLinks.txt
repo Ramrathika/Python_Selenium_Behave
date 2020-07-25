@@ -1,0 +1,9 @@
+Python -  https://www.python.org/downloads/
+IDE - Pycharm, Eclipse, Microsoft Visual code
+Pycharm - https://www.jetbrains.com/pycharm/download/#section=windows
+
+Repo:
+Github/bitbucket
+
+
+variable - datatype
