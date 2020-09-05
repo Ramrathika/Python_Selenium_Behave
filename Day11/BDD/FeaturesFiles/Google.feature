@@ -1,5 +1,5 @@
 Feature: Search Engine Automation
-
+  @Sanity
   Scenario: TC_001_Google Search
 
     Given the user launches google url
@@ -7,8 +7,8 @@ Feature: Search Engine Automation
     Then the user searches Python in search box
     And the user clicks enter
 
-
-  Scenario: TC_002_Google Search
+  @Santiy
+  Scenario: TC_002_bing Search
 
     Given the user launches bing url
     When the user is on bing home page
